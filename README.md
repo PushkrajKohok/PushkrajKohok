@@ -115,14 +115,6 @@ Coursework: AI & Robotics, Machine Learning, Data Analytics, Advanced Data Struc
 
 ---
 
-##  GitHub Stats
-
-![Pushkraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PushkrajKohok&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkrajKohok&layout=compact&hide_border=true)
-
----
-
 ##  Currently Looking For
 
 I am actively looking for **full-time roles** in:
